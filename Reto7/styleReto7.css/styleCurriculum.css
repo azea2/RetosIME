@@ -1,0 +1,18 @@
+*{
+    background-color: rgba(214, 212, 212, 0.849);
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p, ul{
+    background-color: rgb(146, 146, 146);
+}
+
+h3{
+    background-color: rgb(48, 48, 48);
+    color: red;
+}
+
+h4{
+    background-color: rgb(85, 81, 81);
+    color: purple;
+}

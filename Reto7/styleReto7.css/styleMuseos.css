@@ -1,0 +1,45 @@
+/*GENERAL*/
+*{
+    background-color: rgb(15, 189, 166);
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img{
+    width: 330px;
+    height: 190px;
+}
+
+h1{
+    text-align: center;
+}
+
+.c1{
+    height: 300px;
+    background-color: white;
+
+    border-color: red;
+    border-style: solid ;
+    margin: 7%;
+    padding: 10%;
+}
+
+
+
+/*SECCION 1*/
+.c2{
+    width: 50%;
+    background-color: orange;
+
+    margin: 2%;
+    padding: 4%;
+
+    border-color: red;
+    border-style: solid ;
+
+    position: static;
+}
+
+.c3{
+    width: 50%;
+
+}

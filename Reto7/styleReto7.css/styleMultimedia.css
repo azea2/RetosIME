@@ -1,0 +1,77 @@
+/*GENERAL*/
+*{
+    background-color: rgba(214, 212, 212, 0.849);
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    background-color: saddlebrown;
+    color: white;
+}
+
+img{
+    width: 530px;
+    height: 290px;
+}
+
+div{
+    width: 50%;
+    font-size: 18px;
+    float: left;
+}
+
+hr{
+    border-color: white;
+}
+
+
+/*SECCIÓN 1*/
+.caja1{
+    position: static;
+    width: 40%;
+    height: 70%;
+}
+
+.caja2{
+    width: 60%;
+    height: 70%;
+}
+
+.caja3{
+    margin-top: 0px;
+}
+
+
+
+/*SECCIÓN 2*/
+.caja4{
+    width: 100%;
+    margin-top: 320px;
+}
+
+.caja5{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+.caja6{
+    width: 100%;
+    text-align: justify;
+}
+
+
+/*SECCIÓN 3*/
+.caja7{
+    width: 100%;
+}
+
+.caja8{
+    width: 60%;
+    height: 70%;
+}
+
+.caja9{
+    width: 40%;
+    height: 70%;
+}
