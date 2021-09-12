@@ -1,0 +1,75 @@
+/*1 PARTE*/
+h1{
+    color: rgb(24, 93, 158);
+}
+
+b{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+u{
+    color: red;
+}
+
+#r1{
+    color: rgb(230, 38, 230);
+}
+
+em{
+    color: blue;
+}
+
+table{
+    border: 0.5px solid;
+}
+
+#ver{
+    color: rgba(2, 97, 2, 0.692);
+}
+
+span{
+    color: rgb(230, 38, 230);
+}
+
+#r2{
+    color: rgb(3, 71, 23);
+}
+
+#parr{
+    color: rgb(73, 107, 4);
+}
+
+#t1{
+    color: blue;
+}
+#t2, #t3, #t9{
+    color: rgb(202, 202, 19);
+}
+
+#t4, #t5, #t6, #t8, #t10{
+    color: rgb(22, 155, 22);
+}
+
+#t7, #t11{
+    color: red;
+}
+
+
+
+/*2 PARTE*/
+div, .b1, .u1, .em1, .t9, .t6, .sp1, .u1, .pr{
+    padding: 0px;
+    margin: 0px;
+    border: gray 0.5px solid;
+}
+
+
+
+/*3 PARTE*/
+#d1, #d2, #d3, #d4, #d6{
+    width: 60%;
+}
