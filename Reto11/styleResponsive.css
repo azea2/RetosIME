@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(46, 107, 219);
+}
+
+.contenedor{
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+header, footer{
+    margin: 20px 0;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+section, aside, footer{
+    float: left;
+    padding: 20px;
+}
+
+header{
+    background-color: rgb(21, 67, 219);
+}
+
+section{
+    width: 70%;
+    background-color: white;
+    
+}
+
+section img{
+    /*ORGANIZAR LA IMAGEN PARA QUE SE ADAPTE A LA CAJA*/
+    width: 100%;
+    height: auto;
+}
+
+aside{
+    width: 20%;
+    margin-left: 10px;
+    background-color: rgb(162, 233, 229);
+}
+
+footer{
+    width: 100%;
+    background-color: blueviolet;
+}
+
+
+/*RESPONSIVE*/
+
+@media screen and (max-width: 1200px){
+    section{
+        width: 100%;
+    }
+
+    section img{
+        width: 92%;
+    }
+
+    aside{
+        margin-top: 10px;
+        width: 100%;
+        margin-left: 0;
+    }
+}
+
+
+@media screen and (max-width: 800px){
+    .contenedor{
+        width: 100%;
+    }
+
+    aside{
+        display: none;
+    }
+}
